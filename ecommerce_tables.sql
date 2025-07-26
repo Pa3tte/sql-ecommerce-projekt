@@ -1,3 +1,8 @@
+CREATE TABLE kunden (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    email VARCHAR(100) NOT NULL
+);
 CREATE TABLE produkte (
   id SERIAL PRIMARY KEY,
   name VARCHAR(100) NOT NULL,
