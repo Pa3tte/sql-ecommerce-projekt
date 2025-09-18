@@ -6,7 +6,7 @@ INSERT INTO kunden (name, email) VALUES
 ('Elena', 'elena@mail.de'),
 ('Veyda', 'veyda@mail.de'),
 ('Velma', 'velma@mail.de'),
-('Donald', 'donald@mail.de'),
+('Ruben', 'ruben@mail.de'),
 ('Staupe', 'staupe@mail.de'),
 ('Tilo', 'tilo@mail.de');
 
